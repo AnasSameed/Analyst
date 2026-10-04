@@ -1,0 +1,31 @@
+order_id,order_date,city,category,product,quantity,unit_price
+1001,2025-01-05,Bengaluru,Electronics,Earbuds,2,2500
+1002,2025-01-09,Chennai,Fashion,Backpack,1,1500
+1003,2025-01-15,Hyderabad,Electronics,Power Bank,3,1300
+1004,2025-01-21,Bengaluru,Home,Water Bottle,4,500
+1005,2025-02-02,Mumbai,Fashion,Sunglasses,1,1200
+1006,2025-02-07,Chennai,Electronics,Earbuds,1,2500
+1007,2025-02-12,Bengaluru,Home,Cookware Set,1,2800
+1008,2025-02-18,Hyderabad,Fashion,Backpack,2,1500
+1009,2025-02-25,Mumbai,Electronics,Power Bank,2,1300
+1010,2025-03-03,Bengaluru,Fashion,Sunglasses,3,1200
+1011,2025-03-08,Chennai,Home,Water Bottle,5,500
+1012,2025-03-14,Hyderabad,Electronics,Earbuds,2,2500
+1013,2025-03-20,Mumbai,Home,Cookware Set,1,2800
+1014,2025-03-27,Bengaluru,Electronics,Power Bank,1,1300
+1015,2025-04-04,Chennai,Fashion,Backpack,3,1500
+1016,2025-04-10,Hyderabad,Home,Water Bottle,2,500
+1017,2025-04-16,Mumbai,Electronics,Earbuds,1,2500
+1018,2025-04-22,Bengaluru,Fashion,Sunglasses,2,1200
+1019,2025-04-29,Chennai,Electronics,Power Bank,4,1300
+1020,2025-05-05,Hyderabad,Home,Cookware Set,2,2800
+1021,2025-05-11,Mumbai,Fashion,Backpack,1,1500
+1022,2025-05-17,Bengaluru,Electronics,Earbuds,3,2500
+1023,2025-05-23,,Home,Water Bottle,3,500
+1024,2025-05-30,Chennai,Fashion,Sunglasses,1,1200
+1025,2025-06-04,Hyderabad,Electronics,Power Bank,2,1300
+1026,2025-06-10,Mumbai,Home,Cookware Set,1,2800
+1027,2025-06-16,Bengaluru,Fashion,Backpack,2,1500
+1028,2025-06-22,Chennai,Electronics,Earbuds,2,2500
+1029,2025-06-28,Hyderabad,Home,Water Bottle,6,500
+1029,2025-06-28,Hyderabad,Home,Water Bottle,6,500
